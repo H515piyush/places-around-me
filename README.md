@@ -139,7 +139,8 @@ The main objectives of  scramHigher Secondary School are
 
 
 ## Output:
-Include your output screenshot here
+
+![Screenshot 2023-12-30 095750](https://github.com/H515piyush/places-around-me/assets/147472999/dcc1fd0f-68ea-4373-ad96-f3c41c79be98)
 
 ## Result:
-Write your result
+the location is noted
